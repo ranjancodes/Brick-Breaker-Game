@@ -1,6 +1,6 @@
-# Brick-Breaker-Game
+# Brick Breaker Game
 Simple Brick Breaker game made with Java using AWT API and Swing.
 
 Game screenshots:
-![alt text](https://github.com/ranjancodes/Brick-Breaker-Game/blob/main/Screenshots/start.png?raw=true)
-![alt text](https://github.com/ranjancodes/Brick-Breaker-Game/blob/main/Screenshots/finish.png?raw=true)
+![start](https://i.imgur.com/DKb9YGp.png?raw=true)
+![finish](https://i.imgur.com/hNhEZAi.png?raw=true)
